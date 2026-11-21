@@ -1,0 +1,6 @@
+{
+  "name": "Explorador de Datos",
+  "description": "Aplicación web interactiva en español para el análisis exploratorio y descriptivo (EDA) de datasets con gráficos, detección de valores atípicos, análisis con Gemini IA y exportación a PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
